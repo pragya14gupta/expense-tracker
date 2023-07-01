@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http//:pragya14gupta.github.io/expense-tracker/static/css/main.3e8f2a80.chunk.css",
+    "main.js": "/http//:pragya14gupta.github.io/expense-tracker/static/js/main.384e961c.chunk.js",
+    "main.js.map": "/http//:pragya14gupta.github.io/expense-tracker/static/js/main.384e961c.chunk.js.map",
+    "runtime-main.js": "/http//:pragya14gupta.github.io/expense-tracker/static/js/runtime-main.0c9556ff.js",
+    "runtime-main.js.map": "/http//:pragya14gupta.github.io/expense-tracker/static/js/runtime-main.0c9556ff.js.map",
+    "static/js/2.cdcf560b.chunk.js": "/http//:pragya14gupta.github.io/expense-tracker/static/js/2.cdcf560b.chunk.js",
+    "static/js/2.cdcf560b.chunk.js.map": "/http//:pragya14gupta.github.io/expense-tracker/static/js/2.cdcf560b.chunk.js.map",
+    "index.html": "/http//:pragya14gupta.github.io/expense-tracker/index.html",
+    "precache-manifest.1207d93813964f9c8711c37f1a60878f.js": "/http//:pragya14gupta.github.io/expense-tracker/precache-manifest.1207d93813964f9c8711c37f1a60878f.js",
+    "service-worker.js": "/http//:pragya14gupta.github.io/expense-tracker/service-worker.js",
+    "static/css/main.3e8f2a80.chunk.css.map": "/http//:pragya14gupta.github.io/expense-tracker/static/css/main.3e8f2a80.chunk.css.map",
+    "static/js/2.cdcf560b.chunk.js.LICENSE.txt": "/http//:pragya14gupta.github.io/expense-tracker/static/js/2.cdcf560b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/http//:pragya14gupta.github.io/expense-tracker/static/media/logo.b5218d0a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c9556ff.js",
+    "static/js/2.cdcf560b.chunk.js",
+    "static/css/main.3e8f2a80.chunk.css",
+    "static/js/main.384e961c.chunk.js"
+  ]
+}
